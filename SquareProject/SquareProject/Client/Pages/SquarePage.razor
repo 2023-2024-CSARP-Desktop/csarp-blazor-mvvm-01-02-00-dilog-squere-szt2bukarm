@@ -1,5 +1,12 @@
-﻿<h3>SquarePage</h3>
+﻿@page "/square"
+@using SquareProject.Client.ViewModels;
+@using global::Pages.BaseClass;
+@inherits BasePage
+
+<h3>Négyzet terület kerület számítás</h3>
 
 @code {
+    [Inject]
+    public ISquareViewModel? ViewModel { get; set; } 
 
 }
