@@ -3,4 +3,14 @@
 # 00-00-00-empty-project
 Empty project
 
-![alt text](https://github.com/2023-2024-CSARP-Desktop/csarp-blazor-mvvm-01-02-00-dilog-squere-szt2bukarm/blob/main/futas.png)
+Diákok
+![alt text](https://github.com/2023-2024-CSARP-Desktop/04-00-00-wpf-mvvm-design-menu-szt2bukarm/blob/main/diakok.png)
+
+Tanárok
+![alt text](https://github.com/2023-2024-CSARP-Desktop/04-00-00-wpf-mvvm-design-menu-szt2bukarm/blob/main/tanarok.png)
+
+Szülők
+![alt text](https://github.com/2023-2024-CSARP-Desktop/04-00-00-wpf-mvvm-design-menu-szt2bukarm/blob/main/szulok.png)
+
+
+
